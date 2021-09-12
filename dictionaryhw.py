@@ -4,7 +4,7 @@ coursenumbers = {"CS101":["3004", "Haynes", "8:00a.m."],
                  "NT110":["1244", "Burke", "11:00a.m"],
                  "CM241":["1411", "Lee", "1:00p.m."]} 
 
-coursechoice = input("Please enter a coure number: ")
+coursechoice = input("Please enter a course number: ")
 
 list_of_keys = list(coursenumbers)
 for key in list_of_keys:
